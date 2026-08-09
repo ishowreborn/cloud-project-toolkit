@@ -1,0 +1,11 @@
+Rank,Industry,Sector_Category,Approx_10Yr_Avg_Annual_Return_Pct,Approx_1000_USD_Growth,Key_Growth_Driver
+1,Semiconductors & AI Hardware,Technology,38.5,"$36,900",AI chips and data-center demand
+2,Communication Services,Media & Telecom,22.0,"$8,100",Streaming, digital ads, social media
+3,Aerospace & Defense,Industrials,19.5,"$5,900",Defense spending and air travel recovery
+4,Software & Cloud Computing,Technology,24.6,"$9,000",Enterprise cloud migration
+5,Investment Banking & Fintech,Financials,15.0,"$4,000",M&A activity and retail trading boom
+6,Data Center Infrastructure,Industrials,21.0,"$6,700",Cloud and AI compute buildout
+7,E-commerce & Digital Retail,Consumer Discretionary,17.8,"$5,100",Shift to online shopping
+8,Renewable Energy & Grid Tech,Utilities/Energy,12.4,"$3,200",Energy transition investment
+9,Biotech & Health Innovation,Healthcare,10.9,"$2,800",Drug pipeline breakthroughs
+10,Engineering & Construction,Industrials,40.8,"$28,800",Infrastructure and data-center buildout
